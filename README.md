@@ -1,4 +1,4 @@
-# Resume Duplicator Project
+# Resume Task
 
 This project is a duplication of my resume created using HTML, CSS, and Bootstrap. It was created as part of an internship task to showcase my skills and provide an interactive online version of my resume.
 
@@ -6,7 +6,7 @@ This project is a duplication of my resume created using HTML, CSS, and Bootstra
 
 ## Demo
 
-You can see a live demo of the duplicated resume project [here](https://example.com).
+You can see a live demo of the duplicated resume project [here](https://ezhillragesh.github.io/resume_task/).
 
 ## Features
 
